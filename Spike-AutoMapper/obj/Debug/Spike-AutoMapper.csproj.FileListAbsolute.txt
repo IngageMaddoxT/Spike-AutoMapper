@@ -1,0 +1,9 @@
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\Spike-AutoMapper.dll.config
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\Spike-AutoMapper.dll
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\Spike-AutoMapper.pdb
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\obj\Debug\Spike-AutoMapper.csprojResolveAssemblyReference.cache
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\obj\Debug\Spike-AutoMapper.dll
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\obj\Debug\Spike-AutoMapper.pdb
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\AutoMapper.Net4.dll
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\AutoMapper.dll
+C:\projects\Spike-AutoMapper\Spike-AutoMapper\bin\AutoMapper.xml
